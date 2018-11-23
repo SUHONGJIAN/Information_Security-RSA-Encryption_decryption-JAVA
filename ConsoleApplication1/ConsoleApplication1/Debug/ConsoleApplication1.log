@@ -1,0 +1,5 @@
+﻿  源.cpp
+f:\大三课程\信息安全-密码学\信息安全实验第一次\rsa\consoleapplication1\consoleapplication1\源.cpp(147): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+  ConsoleApplication1.vcxproj -> F:\大三课程\信息安全-密码学\信息安全实验第一次\RSA\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> F:\大三课程\信息安全-密码学\信息安全实验第一次\RSA\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
